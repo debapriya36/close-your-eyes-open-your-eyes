@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #ccc;
+    text-align: center;
+}
+
+h1{
+    font-size: 200px;
+}
+.emoji{
+    user-select: none;
+}
+.close{
+    display: none;
+}
+.open{
+    display: none;
+}
+
+.active{
+    display: block;
+}
+
